@@ -3,4 +3,4 @@ title: Post 1
 date: 2018-05-09 22:35:00 Z
 ---
 
-Post 1
+Post 1 content
