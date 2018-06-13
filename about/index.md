@@ -1,8 +1,12 @@
 ---
-layout: page
 title: About the Theme
-tags: [about, Jekyll, theme, JBlog]
-date: 2016-03-21
+date: 2016-03-21 00:00:00 Z
+layout: page
+tags:
+- about
+- Jekyll
+- theme
+- JBlog
 ---
 
 ![jekyll Image](http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/02/1424055625jekyll.png)
