@@ -10,7 +10,7 @@ collections:
     output: true
 bio: Online Portfolio
 description: Online portfolio and resume for Kevin D. Looney
-picture: assets/img/profile.png
+picture: assets/img/illustratorpic.jpg
 locale: en_US
 url: http://www.kevindlooney.com/
 permalink: "/:title/"
