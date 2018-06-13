@@ -1,6 +1,6 @@
 ---
 title: Kevin D. Looney
-timezone: UTC
+timezone: PST
 collections:
   posts:
     title: Posts
@@ -10,9 +10,9 @@ collections:
     output: true
 bio: Online Portfolio
 description: Online portfolio and resume for Kevin D. Looney
-picture: assets/img/illustratorpic.jpg
+picture: assets/img/profile.png
 locale: en_US
-url: http://www.kevindlooney.com/
+url: http://www.kevindlooney.com
 permalink: "/:title/"
 markdown: kramdown
 highlighter: rouge
@@ -25,16 +25,9 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed
-twitter: username
-facebook: username
 github: username
-stackoverflow: 
 linkedin: username
 instagram: username
-lastfm: username
-tumblr: username
-steam: username
-youtube: username
 disqus_shortname: kevindlooney.com
 gems:
 - jekyll-mentions
