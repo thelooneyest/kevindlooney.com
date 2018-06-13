@@ -1,7 +1,7 @@
 ---
 ---
 
-![Kevin Headshot](assets/kevface.jpg)
+![Kevin Headshot](../assets/img/kevface.jpg)
 {: .image-pull-right}
 
 <center><b>Kevin D. Looney</b> </center>
